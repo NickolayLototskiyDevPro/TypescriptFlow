@@ -1,0 +1,20 @@
+{
+  "name": "01.Basic_Concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./node_modules/typescript/bin/tsc",
+    "lint": "./node_modules/.bin/tslint -c ./tslint.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "tslint": "^5.9.1",
+    "tslint-config-airbnb-base": "^0.1.0",
+    "typescript": "^2.7.2"
+  }
+}

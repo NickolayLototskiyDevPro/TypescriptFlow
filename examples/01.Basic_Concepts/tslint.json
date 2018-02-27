@@ -1,0 +1,9 @@
+{
+    "defaultSeverity": "error",
+    "extends": "eslint-config-airbnb",
+    "jsRules": {},
+    "rules": {
+        "no-inferrable-types": true
+    },
+    "rulesDirectory": []
+}
